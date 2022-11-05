@@ -51,9 +51,11 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="vscode" alt="vscode" width="50" height="50"/>&nbsp; 
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="html5" alt="html5" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="css3" alt="css3" width="50" height="50"/>&nbsp;
-</div>
-:fire: My Stats :
-<div align="center">
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Akshay-bendadi)](https://git.io/streak-stats)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Akshay-bendadi1&theme=dark)](https://git.io/streak-stats)
+<div align="left">
+:fire: My Stats:
+   </div>
+  
+ [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Akshay-bendadi&theme=highcontrast&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   </div>
