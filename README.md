@@ -56,6 +56,6 @@
 :fire: My Stats:
    </div>
   
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Akshay&show_icons=true&theme=radical)
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Akshay-bendadi&show_icons=true&theme=radical)
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Akshay-bendadi&theme=midnight-purple)](https://git.io/streak-stats)
   </div>
