@@ -15,6 +15,9 @@
    <a href="https://leetcode.com/Akshay_bendadi/">
     <img src="https://img.shields.io/badge/Leetcode-yellow?style=for-the-badge&logo=leetcode&logoColor=white" alt="Leetcode Badge"/>
   </a>
+  <a href="https://hashnode.com/@Akshay-bendadi">
+    <img src="https://img.shields.io/badge/Hashnode-purple?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode Badge"/>
+  </a>
 </div>
 
 <div align="center">
