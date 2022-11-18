@@ -30,7 +30,7 @@
 </div>
 
 👨‍🎓 About Me :
-<p>  
+ <p>  
  - I am a computer science student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
 - :telescope: I’m currently learning DevOps,DSA,<img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="30">Linux.
