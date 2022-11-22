@@ -58,7 +58,7 @@
 
 :fire: My Stats:
  <div align="center">
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Akshay-bendadi&show_icons=true&locale=en" alt="Akshay-bendadi" /></p>
+
   
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Akshay-bendadi&theme=midnight-purple)](https://git.io/streak-stats)
   </div>
